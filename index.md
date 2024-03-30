@@ -12,7 +12,7 @@ Programming Projects
 ![BattleShip](images/BattleShip.jpg)
 
 ---
-### [ConnectFour | CSCI 125](project1)
+### [ConnectFour | CSCI 125](project2)
 
 ![ConnectFour](images/ConnectFour.jpg)
 
