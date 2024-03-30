@@ -4,63 +4,43 @@ Portfolio
 Programming Projects
 --------------------
 
-*For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
+*For access to my private project repositories, please [email me](mailto:mkgaudraul@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [Project 1 Title | CSCI 301](project1)
+### [BattleShip with AI | CSCI 235](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
-
----
-### [Project 2 Title | CSCI 315](project1)
-
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![BattleShip](images/Battleship.jpg)
 
 ---
-### [Project 3 Title | CSCI 325](project1)
+### [ConnectFour | CSCI 125](project1)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
-
----
-### [Project 4 Title | CSCI 332](project1)
-
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![ConnectFour](images/ConnectFour.jpg)
 
 ---
 
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [From High School Drop Out To International Man of Myster](/pdf/GaudraultWhitePaper1.pdf)
 
--   **Class:**  
--   **Grade:**
-
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
-
--   **Class:** 
--   **Grade:**
-
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
-
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 405 Principles of Cybersecurity**  
+-   **Grade:95**
 
 ---
 
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Coastal Birth Services Schedule App](/pdf/Group1_Assignment7.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class:CPT 264 Systems and Procedures** 
+- **Grade: A**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [How a Life Saving Device Could Have Been Deadly](a href="https://youtu.be/XXF_KphNsuA")
 
-- **Class:** 
-- **Grade:**
+- **Class:CSCI 301 Survey of Scripting Language** 
+- **Grade: A**
 
 ---
 
