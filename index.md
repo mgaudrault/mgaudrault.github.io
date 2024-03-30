@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [BattleShip with AI | CSCI 235](project1)
 
-![BattleShip](images/Battleship.jpg)
+![BattleShip](images/BattleShip.jpg)
 
 ---
 ### [ConnectFour | CSCI 125](project1)
@@ -25,7 +25,11 @@ Ethics Papers
 
 -   **Class: CSCI 405 Principles of Cybersecurity**  
 -   **Grade:95**
+-   
+### [Behind Every Great Computer There is a User](/pdf/GaudraultWhitePaper2.pdf)
 
+-   **Class: CSCI 405 Principles of Cybersecurity**  
+-   **Grade:**
 ---
 
 Presentations
