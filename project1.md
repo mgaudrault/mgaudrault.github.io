@@ -1,48 +1,57 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+BattleShip with AI
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class:CSCI 235** 
+-   **Grade:A** 
+-   **Language(s): C++** 
+-   **Source Code Repository:** [mgaudrault/battleship]([https://github.com/mgaudrault/battleship])  
+    (Please [email me](mailto:mkgaudrault@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Recreated the Kids Game as a computer game with Artificial Intellegence enemy.  The AI aspect of the game was created by Sean Hayes and was included with the class work.  
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+How to compile (if applicable) and run the project. You will need a C++ compiler, I used G++ and downloaded MinGW-x64. My work was done through Virtual Studios so I have included the steps used to make sure you can run the code below.
+[Click Here for steps to update Virtual Studio for C++](https://code.visualstudio.com/docs/languages/cpp)
 
 ```bash
 cd ./project
-python setup.py
+.\battleship.exe
 ```
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+As the focus on this class was to get the programming steps correct, the UI is pretty simple and is all in the terminal itself.  When you start the game you will see both the opponents board (all blank as you wouldn't see their configuration) and your player board with a question asking if this is the board you would like to play with.  The user would then put either "y" or "n" depending on if they like the lay out of the ships on the right hand side.  The ships are visible via letters on the board with the names aligning as below
+Aircraft Carrier 5 spaces long marked with letter A
+Battleship       4 spaces long marked with letter B
+Destroyer        3 spaces long marked with letter D
+Submarine        3 spaces long marked with letter S
+Patrol Boat      2 spaces long marked with letter P
+See Figure 1
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+You then take turns back and forth with the AI/Computer enemy with hits being marked with "X" and misses marked with "~" see figure 2. When the opponent hits one of your ships the capital letter changes to lower case. After you take out one of the enemy's ships you are notified which one you sank. see figure 3. When the user inputs either a space that has already been used or something incorrectly the message "Invalid row or column." is shown and you are asked to enter your coordinate for a shot again. Once you have sunk the last ship you are told that you have won the game and then the session is ended. see figure 4
 
-![screenshot](images/dummy_thumbnail.jpg)  
+
+
+![screenshot](images/battleship1.png)  
 Fig 1. The launch screen
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/battleship2.png)  
 Fig 2. Example output after input is processed.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/battleship3.png)  
+Fig 3. When you sink an enemy ship.
+
+![screenshot](images/battleship4.png)  
+Fig 4. When the game ends.
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+This is a fun example of how a complex idea like playing battleship with the computer can be implemented with a logical approach.  This was a fun project for me as it was something I could show my wife and she could play.
 
 [Back to Portfolio](./)
