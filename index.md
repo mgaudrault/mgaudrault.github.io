@@ -41,7 +41,7 @@ Presentations
 - **Grade: A**
 
 
-### [How a Life Saving Device Could Have Been Deadly](a href="https://youtu.be/XXF_KphNsuA")
+### [How a Life Saving Device Could Have Been Deadly](https://youtu.be/XXF_KphNsuA)
 
 - **Class:CSCI 301 Survey of Scripting Language** 
 - **Grade: A**
