@@ -29,7 +29,7 @@ Ethics Papers
 ### [Behind Every Great Computer There is a User](/pdf/GaudraultWhitePaper2.pdf)
 
 -   **Class: CSCI 405 Principles of Cybersecurity**  
--   **Grade:**
+-   **Grade: A**
 ---
 
 Presentations
