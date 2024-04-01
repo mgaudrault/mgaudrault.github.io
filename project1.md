@@ -6,7 +6,7 @@ BattleShip with AI
 -   **Class:CSCI 235** 
 -   **Grade:A** 
 -   **Language(s): C++** 
--   **Source Code Repository:** [mgaudrault/battleship]([https://github.com/mgaudrault/battleship])  
+-   **Source Code Repository:** [mgaudrault/battleship](https://github.com/mgaudrault/battleship)  
     (Please [email me](mailto:mkgaudrault@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
